@@ -1,0 +1,1 @@
+This folder contains a full set of floppy disk images of Slackware 3.4. Enjoy!
