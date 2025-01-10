@@ -1,0 +1,1 @@
+This directory contains a full set of floppy disk images of Slackware 1.01’s **A** series, plus images of SLS 1.03’s **T** and **X** series. Enjoy!
